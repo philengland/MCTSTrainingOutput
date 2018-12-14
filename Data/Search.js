@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],u:['../Content/!A_Project Overview/!Section A_Project Overview.htm'],s:['0086a5'],p:[['0086a5',7],['set',10]]});
